@@ -4,6 +4,6 @@
     
     Link pastebin : http://pastebin.com/qymnAFCb
     
-    ![ScreenShot](http://i.imgur.com/LNcPE3E.png)
+    Screenshot : http://i.imgur.com/LNcPE3E.png
     
     .
